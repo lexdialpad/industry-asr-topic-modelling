@@ -1,0 +1,8 @@
+# Specifying which files and folders should not be tracked
+
+/topicmodel/
+/transcript_text_files/
+/wordclouds/
+.DS_Store
+topic_distribution.html
+topic_map.html
